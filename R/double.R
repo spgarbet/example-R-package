@@ -11,6 +11,5 @@
 #' @examples 
 #' double(5)
 #' double(3:10)
-#' double("X") # This is a mistake!
 
 double <- function(x) 2*x
