@@ -19,6 +19,5 @@ Additional paragraph to make sure we have twice as much verbage.
 \examples{
 double(5)
 double(3:10)
-double("X") # This is a mistake!
 }
 \keyword{simple}
