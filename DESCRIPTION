@@ -1,9 +1,9 @@
 Package: example
-Title: What the Package Does (one line, title case)
+Title: A simple example of package creation
 Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Authors@R: person("Shawn", "Garbett", email = "shawn.garbett@vanderbilt.edu", role = c("aut", "cre"))
+Description: A very simplistic, bare bones example of package creation. Each step will be committed to git.
 Depends: R (>= 3.3.2)
-License: What license is it under?
+License: MIT
 Encoding: UTF-8
 LazyData: true
